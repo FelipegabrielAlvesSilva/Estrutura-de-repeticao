@@ -13,6 +13,7 @@ public class Main {
         int numero = entrada.nextInt();
         int cont=0;
 
+
         //para o numero estar de acordo com o que precisa usamos o while
         while(numero <1 || numero>6)
             System.out.println("O numero deve ser entre 1 e 6");
